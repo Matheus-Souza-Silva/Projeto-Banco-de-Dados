@@ -1,4 +1,6 @@
-Trabalho iniciado no dia **25/03/25**, sendo escolhido o tema sobre **gestão e visualização de dados em interface** e subsequentemente, o subtema de um **gerenciador de um banco de dados escolar**. Este será um trabalho de duração de um semestre, com cada etapa tendo sua propria janela de tempo, o objetivo deste trabalho e desenvolver um prótotipo funcional dentro do tema escolhido, e em seguida este protótipo será passará por um Pitch, com uma mesa de investidores
+Trabalho iniciado no dia **25/03/25**, sendo escolhido o tema sobre **gestão e visualização de dados em interface** e subsequentemente, o subtema de um **gerenciador de um banco de dados escolar**. Este será um trabalho de duração de um semestre, com cada etapa tendo sua propria janela de tempo, o objetivo deste trabalho e desenvolver um prótotipo funcional dentro do tema escolhido, e em seguida este protótipo será passará por um Pitch, com uma mesa de investidores.
+
+Notion: https://iced-snail-ed9.notion.site/CeS-Projeto-Prot-tipo-1ba3d05adda580eda34af4ee4de2ab10
 
 # Tema e Grupo
 
