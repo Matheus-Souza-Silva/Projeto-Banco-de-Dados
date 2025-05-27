@@ -22,6 +22,6 @@ Telas do Protótipo: https://www.figma.com/design/EKNn9umNDLaixu5CAc3uPc/GEM?nod
 ### 1º Etapa - Protótipo de Baixa Fidelidade - Papel (Sem Código) ✔
 ### 2º Etapa - Canvas ✔
 ### 3º Etapa - Análise de SWOT ✔
-### 4º Etapa - Precificação do Software e Telas no Figma (Média Fidelidade) | 20/05/25
+### 4º Etapa - Precificação do Software e Telas no Figma (Média Fidelidade) | 27/05/25
 ### 5º Etapa - Landing Page | 03/06/25
 ### 6º Etapa - Pitch | 10/06/25
