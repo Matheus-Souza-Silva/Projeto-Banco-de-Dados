@@ -23,5 +23,5 @@ Telas do Protótipo: https://www.figma.com/design/EKNn9umNDLaixu5CAc3uPc/GEM?nod
 ### 2º Etapa - Canvas ✔
 ### 3º Etapa - Análise de SWOT ✔
 ### 4º Etapa - Precificação do Software e Telas no Figma (Média Fidelidade) ✔
-### 5º Etapa - Landing Page | 03/06/25
+### 5º Etapa - Landing Page ✔
 ### 6º Etapa - Pitch | 10/06/25
